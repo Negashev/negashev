@@ -4,10 +4,6 @@
 
 I make huge distributed applications on microservices
 
-- 💻 I’m currently working with large Gitlab instances in [EPAM](https://epam.com)
-- 🌱 I’m currently learning IoT and AI/ML apps
-
-
 ###### i@negash.ru
 ###### +7 9922008051
 <details>
