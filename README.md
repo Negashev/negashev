@@ -4,6 +4,8 @@
 
 I make huge distributed applications on microservices
 
+[![wakatime](https://wakatime.com/badge/user/0f2ac8b8-9347-4848-aaf2-7953f7bf83b7.svg)](https://wakatime.com/@0f2ac8b8-9347-4848-aaf2-7953f7bf83b7)
+
 ###### i@negash.ru
 ###### +7 9922008051
 <details>
